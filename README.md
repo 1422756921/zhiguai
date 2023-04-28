@@ -39,7 +39,7 @@
 <div align="center">
 <a href="https://github.com/zhiguai/CZ-LoveCards">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhiguai&repo=CZ-LoveCards&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/zhiguai/CZ-LoveCards">
+<a href="https://github.com/zhiguai/LoveCards">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhiguai&repo=CZ-LoveCards&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <!-- 
 <a href="https://github.com/zhiguai/CZ-LoveCards">
